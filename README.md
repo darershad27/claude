@@ -164,6 +164,10 @@ Thirty of the fifty-five need no code execution at all: the Finance Leadership B
 
 ---
 
+## How these are built
+
+[METHOD.md](METHOD.md) explains the anatomy every skill shares, the six tests a candidate has to pass, what all of them refuse to do, and the one hard line each domain carries. Three minutes, and it covers the whole library.
+
 ## Repository layout
 
 ```
